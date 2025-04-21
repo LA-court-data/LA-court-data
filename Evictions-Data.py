@@ -46,7 +46,7 @@ elif selection == "More":
         # Add any other elements you want to reveal here
         st.write("Go to github.com")
         st.write("Username: LA-court-data")
-        st.write("Password: ")
+        st.write("Password: Help22Parishes!")
 
         st.subheader("Next Steps")
         st.write("1. Click on the repositories tab")
